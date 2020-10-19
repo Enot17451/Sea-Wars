@@ -167,7 +167,7 @@ class Board {
     }
 }
 
-public class Main {
+public class SeaWars {
 
 
     public static void main(String[] args) {
